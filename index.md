@@ -87,9 +87,9 @@ My English is at B2 level [тесту Cambridge Assessment](https://www.cambridg
 
 ##### Telegram channels:
 > - [LEFT JOIN](https://t.me/leftjoin)
-> - [настенька и графики](https://t.me/nastengraph)
+> - [nastenka and graphics](https://t.me/nastengraph)
 > - [GoPractice!](https://t.me/gopractice)
-> - [Стартап дня Горного Александра](https://t.me/startupoftheday)
+> - [Gorny Alexander Startup Day](https://t.me/startupoftheday)
 > - [SYNERGIS :: RUS блокчейн и крипто энтузиасты](https://t.me/synergis)
 > - [Web 3.0](https://t.me/web3news)
 

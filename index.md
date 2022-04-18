@@ -33,19 +33,19 @@ My English is at B2 level [тесту Cambridge Assessment](https://www.cambridg
 | :-----------: | :----------------------------------------------------------: |
 |   June 2020   | [Hekslet - practical programming courses.](https://ru.hexlet.io/) Python-программист |
 |   May 2020    | [Hexlet - practical programming courses.](https://ru.hexlet.io/) Протокол HTTP |
-|  April 2020  | Algorithms and tkinter: lessons with a tutor: [link to my exercises](https://github.com/konicaRu/data_structures_and_algorithms), [exercise with tkinter](https://github.com/konicaRu/studying_tkinter) |
-|   March 2020   | Algorithms: lessons with a tutor: [link to my exercises](https://github.com/konicaRu/data_structures_and_algorithms) |
+|  April 2020   | Algorithms and tkinter: lessons with a tutor: [link to my exercises](https://github.com/konicaRu/data_structures_and_algorithms), [exercise with tkinter](https://github.com/konicaRu/studying_tkinter) |
+|   March 2020  | Algorithms: lessons with a tutor: [link to my exercises](https://github.com/konicaRu/data_structures_and_algorithms) |
 | February 2020 | [Course on the Stepik educational platform](https://stepik.org/) **SQL basics.** Simple SQL queries, adding, modifying, deleting, creating tables, indexes, modifying tables, text search, auxiliary functions, data grouping , multi-table queries, nested queries, compound conditions, selection limit, principle of operation without data. |
-|January 2020 | Python Basics: Tutored Lessons: [link to my exercises](https://github.com/konicaRu/python_task) |
+|January 2020   | Python Basics: Tutored Lessons: [link to my exercises](https://github.com/konicaRu/python_task) |
 | December 2019 | [Course on the Stepik educational platform](https://stepik.org/) Fundamentals of statistics |
 | November 2019 | [Hexlet - practical programming courses.](https://ru.hexlet.io/) Version control systems (GIT) |
-| October 2019 | [Hexlet - Practical Programming Courses.](https://en.hexlet.io/) Linux Command Line Basics |
-| September 2019 | [Hexlet - practical programming courses.](https://en.hexlet.io/) Basics of HTML, CSS and web design |
-| August 2019 | [Course on the Stepik Educational Platform](https://stepik.org/) Python: Basics and Applications |
-| July 2019 | [Hexlet - practical programming courses.](https://ru.hexlet.io/) Python:Environment settings |
-| June 2019 | [Course on the Stepik educational platform](https://stepik.org/) Programming in Python |
-| May 2019 | [Course on the Stepik educational platform](https://stepik.org/) Programming in Python |
-| May 2019 | [English courses on an educational platform **Skyeng**](https://skyeng.ru/) B2 level |
+| October 2019  | [Hexlet - Practical Programming Courses.](https://en.hexlet.io/) Linux Command Line Basics |
+| September 2019| [Hexlet - practical programming courses.](https://en.hexlet.io/) Basics of HTML, CSS and web design |
+| August 2019   | [Course on the Stepik Educational Platform](https://stepik.org/) Python: Basics and Applications |
+| July 2019     | [Hexlet - practical programming courses.](https://ru.hexlet.io/) Python:Environment settings |
+| June 2019     | [Course on the Stepik educational platform](https://stepik.org/) Programming in Python |
+| May 2019      | [Course on the Stepik educational platform](https://stepik.org/) Programming in Python |
+| May 2019      | [English courses on an educational platform **Skyeng**](https://skyeng.ru/) B2 level |
 
 #### Training plans:
 

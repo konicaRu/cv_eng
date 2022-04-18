@@ -29,7 +29,7 @@ My English is at B2 level [тесту Cambridge Assessment](https://www.cambridg
 
 #### Additional education: 
 
-|   July 2020   | [Yandex Workshop Data Analyst](https://praktikum.yandex.ru/profile/data-scientist/order/) |
+|   July 2020   | [Yandex Praktikum Data Analyst](https://praktikum.yandex.ru/profile/data-scientist/order/) |
 | :-----------: | :----------------------------------------------------------: |
 |   June 2020   | [Hekslet - practical programming courses.](https://ru.hexlet.io/) Python-программист |
 |   May 2020    | [Hexlet - practical programming courses.](https://ru.hexlet.io/) Протокол HTTP |
@@ -46,6 +46,7 @@ My English is at B2 level [тесту Cambridge Assessment](https://www.cambridg
 | June 2019 | [Course on the Stepik educational platform](https://stepik.org/) Programming in Python |
 | May 2019 | [Course on the Stepik educational platform](https://stepik.org/) Programming in Python |
 | May 2019 | [English courses on an educational platform **Skyeng**](https://skyeng.ru/) B2 level |
+
 #### Training plans:
 
 - Fundamentals of Statistics, Part 2, [Course on the Stepik educational platform] (https://stepik.org/) (to continue the career of an analyst)

@@ -25,28 +25,27 @@ My English is at B2 level [тесту Cambridge Assessment](https://www.cambridg
 
 **data analyst**, [Yandex.Praktikum](https://praktikum.yandex.ru/data-analyst/) (July 2020)
 
-> - SQL, Python (numpy/pandas/plotly/matplotlib/scikit-learn/seaborn/requests/ BeautifulSoup/SciPy), Jupyter Notebook, Excel, Google Sheets, ETL-скрипты, Git, ML(линейная регрессия, логистическая регрессия, бутстрап, решающие деревья). Формулировка и оценка гипотез, A/A A/B тесты. Дашборды на Tableau. 
+> - SQL, Python (numpy/pandas/plotly/matplotlib/scikit-learn/seaborn/requests/ BeautifulSoup/SciPy), Jupyter Notebook, Excel, Google Sheets, ETL-скрипты, Git, ML(linear regression, logistic regression, bootstrap, decision trees). Formulation and evaluation of hypotheses, A/A A/B тесты. Dashboards on Tableau and Power BI. 
 
-#### Дополнительное образование: 
+#### Additional education: 
 
-|   Июль 2020   | [Яндекс практикум Аналитик данных](https://praktikum.yandex.ru/profile/data-scientist/order/) |
+|   July 2020   | [Yandex Workshop Data Analyst](https://praktikum.yandex.ru/profile/data-scientist/order/) |
 | :-----------: | :----------------------------------------------------------: |
-|   Июнь 2020   | [Хекслет — практические курсы по программированию.](https://ru.hexlet.io/) Python-программист |
-|   Май 2020    | [Хекслет — практические курсы по программированию.](https://ru.hexlet.io/) Протокол HTTP |
-|  Апрель 2020  | Алгоритмы и tkinter: занятия с тьютором: [ссылка на мои упражнения](https://github.com/konicaRu/data_structures_and_algorithms), [упражнение с tkinter](https://github.com/konicaRu/studying_tkinter) |
-|   Март 2020   | Алгоритмы: занятия с тьютором: [ссылка на мои упражнения](https://github.com/konicaRu/data_structures_and_algorithms) |
-| Февраль 2020  | [Курс на образовательной платформе Stepik](https://stepik.org/) **Основы SQL.** Простые SQL запросы, добавление, изменение, удаление, создание таблиц, индексы, изменение таблиц, поиск текста, вспомогательные функции, группировка данных, многотабличные запросы, вложенные запросы, составные условия, ограничение выборки, принцип работы без данных. |
-|  Январь 2020  | Основы Python: занятия с тьютором: [ссылка на мои упражнения](https://github.com/konicaRu/python_task) |
-| Декабрь 2019  | [Курс на образовательной платформе Stepik](https://stepik.org/) Основы статистики |
-|  Ноябрь 2019  | [Хекслет — практические курсы по программированию.](https://ru.hexlet.io/) Системы контроля версий (GIT) |
-| Октябрь 2019  | [Хекслет — практические курсы по программированию.](https://ru.hexlet.io/) Основы командной строки Linux |
-| Сентябрь 2019 | [Хекслет — практические курсы по программированию.](https://ru.hexlet.io/)Основы HTML, CSS и веб-дизайна |
-|  Август 2019  | [Курс на образовательной платформе Stepik](https://stepik.org/) Python: основы и применение |
-|   Июль 2019   | [Хекслет — практические курсы по программированию.](https://ru.hexlet.io/) Python:Настройка окружения |
-|   Июнь 2019   | [Курс на образовательной платформе Stepik](https://stepik.org/) Программирование на Python |
-|   Май 2019    | [Курс на образовательной платформе Stepik](https://stepik.org/) Программирование на Python |
-|   Май 2019    | [English courses on an educational platform **Skyeng**](https://skyeng.ru/)  уровень В2 level |
-
+|   June 2020   | [Hekslet - practical programming courses.](https://ru.hexlet.io/) Python-программист |
+|   May 2020    | [Hexlet - practical programming courses.](https://ru.hexlet.io/) Протокол HTTP |
+|  April 2020  | Algorithms and tkinter: lessons with a tutor: [link to my exercises](https://github.com/konicaRu/data_structures_and_algorithms), [exercise with tkinter](https://github.com/konicaRu/studying_tkinter) |
+|   March 2020   | Algorithms: lessons with a tutor: [link to my exercises](https://github.com/konicaRu/data_structures_and_algorithms) |
+| February 2020 | [Course on the Stepik educational platform](https://stepik.org/) **SQL basics.** Simple SQL queries, adding, modifying, deleting, creating tables, indexes, modifying tables, text search, auxiliary functions, data grouping , multi-table queries, nested queries, compound conditions, selection limit, principle of operation without data. |
+|January 2020 | Python Basics: Tutored Lessons: [link to my exercises](https://github.com/konicaRu/python_task) |
+| December 2019 | [Course on the Stepik educational platform](https://stepik.org/) Fundamentals of statistics |
+| November 2019 | [Hexlet - practical programming courses.](https://ru.hexlet.io/) Version control systems (GIT) |
+| October 2019 | [Hexlet - Practical Programming Courses.](https://en.hexlet.io/) Linux Command Line Basics |
+| September 2019 | [Hexlet - practical programming courses.](https://en.hexlet.io/) Basics of HTML, CSS and web design |
+| August 2019 | [Course on the Stepik Educational Platform](https://stepik.org/) Python: Basics and Applications |
+| July 2019 | [Hexlet - practical programming courses.](https://ru.hexlet.io/) Python:Environment settings |
+| June 2019 | [Course on the Stepik educational platform](https://stepik.org/) Programming in Python |
+| May 2019 | [Course on the Stepik educational platform](https://stepik.org/) Programming in Python |
+| May 2019 | [English courses on an educational platform **Skyeng**](https://skyeng.ru/) B2 level |
 #### Планы по обучению:
 
 - Основы статистики, Часть 2,  [Курс на образовательной платформе Stepik](https://stepik.org/) (для продолжения карьеры аналитика) 

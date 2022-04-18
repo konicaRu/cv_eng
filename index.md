@@ -1,29 +1,29 @@
 #### *Curriculum vitae*
 
-# ![](https://raw.githubusercontent.com/konicaRu/konicaru.github.io/master/pictures/my_photo_150_cekl.jpg)Кочетов Дмитрий аналитик данных        
+# ![](https://raw.githubusercontent.com/konicaRu/konicaru.github.io/master/pictures/my_photo_150_cekl.jpg)Kochetov Dmitry data analyst        
 
-|[Mоё резюме на hh.ru](https://vologda.hh.ru/resume/ff6aba3fff0857b2030039ed1f4b55414b6166)|Связаться со мной: [dimkochetow@gmail.com](dimkochetow@gmail.com)|
+|[My resume on hh.ru](https://vologda.hh.ru/resume/ff6aba3fff0857b2030039ed1f4b55414b6166)|Contact with me: [dimkochetow@gmail.com](dimkochetow@gmail.com)|
 
-|[Мой блог](https://konicaru.github.io/)|[Мой GitHub](https://github.com/konicaRu)|[Мой Linkedin](https://www.linkedin.com/in/dimkochetov/)|[Мой Facebook](https://www.facebook.com/konica1970)|[Телеграмм](https://t.me/konica1970)|
+|[My blog](https://konicaru.github.io/)|[My GitHub](https://github.com/konicaRu)|[My Linkedin](https://www.linkedin.com/in/dimkochetov/)|[My Facebook](https://www.facebook.com/konica1970)|[Telegram](https://t.me/konica1970)|
 
 ------
 
-*обновлял 5 марта 2022 года.*
+*updated March 5, 2022.*
 
-Меня зовут Дмитрий Кочетов я родился 29 декабря 1970 года, я аналитик данных живу в городе Череповец Вологодской области работаю аналитиком данных в ОАО "Газпромбанк" в Центре учета обращений Управления клиентской поддержки Департамента клиентского сервиса. В мои обязанности входит анализ качества предоставления услуг колл-центром. Формирование отчетов и дашбордов. 
- Мой стек сейчас Microsoft Excel (Power Query, Power Pivot, DAX, M) и Power BI. 
+My name is Dmitry Kochetov, I was born on December 29, 1970, I am a data analyst, I live in the city of Cherepovets, Vologda Oblast, I work as a data analyst at Gazprombank OJSC in the Call Center of the Customer Support Department of the Customer Service Department. My responsibilities include analyzing the quality of service provided by the call center. Formation of reports and dashboards.
+ My stack is now Microsoft Excel (Power Query, Power Pivot, DAX, M) and Power BI.
 
-С июля  2020 по январь 2021 я закончил курсы  **Аналитик данных в Яндекс. Практикуме**. Мне нравится копаться в данных и решать задачи с помощью их анализа.
+From July 2020 to January 2021, I completed the **Data Analyst at Yandex. Workshop**. I like to dig into data and solve problems by analyzing it.
 
-Прошёл курсы по  Python, статистике  и SQL. Интересуюсь анализом и представлением информации. Постоянно учусь новому.
+Completed courses in Python, statistics and SQL. Interested in analysis and presentation of information. I am constantly learning new things.
 
-До этого с 1990 года работал как частный предприниматель в розничной торговле и строительстве. Сейчас хочу начать работу в IT - сфере. В данный момент активно ищу работу.
+Prior to that, since 1990, he worked as a private entrepreneur in retail and construction. Now I want to start working in the IT field. I am currently actively looking for a job.
 
-Мой английский на уровне B2 по [тесту Cambridge Assessment](https://www.cambridgeenglish.org/test-your-english/general-english/).
+My English is at B2 level [тесту Cambridge Assessment](https://www.cambridgeenglish.org/test-your-english/general-english/).
 
-### Обучение - аналитика:
+### Training - analytics:
 
-**Аналитик данных**, [Яндекс.Практикум](https://praktikum.yandex.ru/data-analyst/) (июль 2020)
+**data analyst**, [Yandex.Praktikum](https://praktikum.yandex.ru/data-analyst/) (July 2020)
 
 > - SQL, Python (numpy/pandas/plotly/matplotlib/scikit-learn/seaborn/requests/ BeautifulSoup/SciPy), Jupyter Notebook, Excel, Google Sheets, ETL-скрипты, Git, ML(линейная регрессия, логистическая регрессия, бутстрап, решающие деревья). Формулировка и оценка гипотез, A/A A/B тесты. Дашборды на Tableau. 
 

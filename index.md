@@ -46,49 +46,45 @@ My English is at B2 level [тесту Cambridge Assessment](https://www.cambridg
 | June 2019 | [Course on the Stepik educational platform](https://stepik.org/) Programming in Python |
 | May 2019 | [Course on the Stepik educational platform](https://stepik.org/) Programming in Python |
 | May 2019 | [English courses on an educational platform **Skyeng**](https://skyeng.ru/) B2 level |
-#### Планы по обучению:
+#### Training plans:
 
-- Основы статистики, Часть 2,  [Курс на образовательной платформе Stepik](https://stepik.org/) (для продолжения карьеры аналитика) 
-- [Яндекс практикум Data Science](https://praktikum.yandex.ru/profile/data-scientist/order/) 
+- Fundamentals of Statistics, Part 2, [Course on the Stepik educational platform] (https://stepik.org/) (to continue the career of an analyst)
+- [Yandex Data Science Workshop](https://praktikum.yandex.ru/profile/data-scientist/order/)
 
-#### Опыт работы:
+#### Experience:
 
-> - **с 2009 - 2019 год**
+> - **from 2009 - 2019**
 >
-> собственное строительное предприятие по горизонтально - направленному бурению, ИП
+> own construction company for horizontal directional drilling, IP
 >
-> - **с 1999 - 2009 год**
+> - **from 1999 - 2009**
 >
-> работа директором “Коника Фото - Экспресс” г. Череповец, собственное предприятие, ИП
+> work as a director of “Konica Photo - Express”, Cherepovets, own enterprise, sole proprietorship
 >
-> - **с 1990 - 1999 год**
+> - **from 1990 - 1999**
 >
-> отдел сбыта газораспределительных установок, ООО “Штрих” г. Череповец
+> sales department for gas distribution units, Shtrikh LLC, Cherepovets
+#### Education:
 
-#### Образование:
-
-> - **в 1998 году**
+> - **in 1998**
 >
-> прошел программу в Международном открытом университете "Link" программа "Управление маркетингом и финансами"
+> passed the program at the International Open University "Link" program "Marketing and Finance Management"
 >
-> - **в 1990 году** 
+> - **in 1990**
 >
-> закончил Ленинградский энергетический техникум по специальности техник - теплотехник, ремонт и обслуживание парогенераторных установок атомных электростанций профильные предметы: теплотехника, ядерная физика, математика
+> Graduated from the Leningrad Power Engineering College with a degree in heat engineering, repair and maintenance of steam generators at nuclear power plants specialized subjects: heat engineering, nuclear physics, mathematics
+#### Skills and hobbies:
 
-#### Навыки и увлечения:
+> - a confident user of Adobe Photoshop
+> - confident user of Adobe Premiere
+> - confident CorelDRAW user
+> - confident user of Microsoft Word, Microsoft Excel
+> - interested in blockchain technology, cryptocurrencies, web 3.0
+> - I am fond of rafting and amateur video editing.
+> - I've been watching **Formula 1** races since 1993.
+#### Background (reason for conversation)
 
-> - уверенный пользователь Adobe Photoshop
-> - уверенный пользователь Adobe Premiere
-> - уверенный пользователь CorelDRAW
-> - уверенный пользователь Microsoft Word, Microsoft Exel
-> - интересуюсь технологией блокчейн, криптовалютами, web 3.0
-> - увлекаюсь рафтингом и любительским видеомонтажом.
-> - смотрю гонки **Formula 1** с 1993 года.
-
-#### Бэкграунд (повод для беседы)
-
-##### Телеграмм каналы:
-
+##### Telegram channels:
 > - [LEFT JOIN](https://t.me/leftjoin)
 > - [настенька и графики](https://t.me/nastengraph)
 > - [GoPractice!](https://t.me/gopractice)
@@ -96,26 +92,26 @@ My English is at B2 level [тесту Cambridge Assessment](https://www.cambridg
 > - [SYNERGIS :: RUS блокчейн и крипто энтузиасты](https://t.me/synergis)
 > - [Web 3.0](https://t.me/web3news)
 
-##### **Пишу в блог:**
+##### **I'm blogging:**
 
-> * [https://github.com/konicaRu](https://github.com/konicaRu) 
+> * [https://github.com/konicaRu](https://github.com/konicaRu)
 
-##### Читаю книги: на некоторые делаю обзоры в блоге.
+##### I read books: I review some of them on my blog.
 
-> - [“Варгань, кропай, марай и пробуй” Шрини Пиллэй](https://konicaru.github.io/#книга-варгань-кропай-марай-и-пробуй-шрини--пиллэй)
-> - [Книга: "Графики которые убеждают всех" Александр Богачев](https://konicaru.github.io/#книга-графики-которые-убеждают-всех-александр-богачев)
-> - ["Думай медленно, решай быстро" Даниэль Канеман](https://konicaru.github.io/#книга-думай-медленно-решай-быстро-даниэль-канеман)
-> - [“В работу с головой.” Кэл Ньюпорт](https://konicaru.github.io/#в-работу-с-головой-кэл-ньюпорт)
-> - [“Изучаем Python.” Марк Луц](https://konicaru.github.io/#книга-изучаем-python-марк-луц-1)
-> - [“Код тайный язык информатики”. Чарлз Пецольд](https://konicaru.github.io/#книга-код-тайный-язык-информатики-чарлз-пецольд)
-> - [“Стратегии голубого океана” Ким Чан и Рене Моборн](https://konicaru.github.io/#стратегии-голубого-океана--ким-чан-и-рене-моборн)
-> - [“Грокаем алгоритмы” автор Бхаргава А.](https://konicaru.github.io/#книга-грокаем-алгоритмы-автор-бхаргава-а)
-> - [“Медитация и осознанность. 10 минут в день, которые приведут ваши мысли в порядок “. автор Энди Паддикомб](https://konicaru.github.io/#книга--медитация-и-осознанность-10-минут-в-день-которые-приведут-ваши-мысли-в-порядок---автор-энди-паддикомб)
-> - [“Эйнштейн гуляет по луне.” ДЖОШУА ФОЕР](https://konicaru.github.io/#книга-эйнштейн-гуляет-по-луне--джошуа--фоер)
+> - ["Jew's harp, sprinkle, mari and taste" by Shrini Pillay]
+> - [Book: "Graphics that convince everyone" Alexander Bogachev](https://konicaru.github.io/#book-graphics-that-convince-everyone-aleksandr-bogachev)
+> - ["Think slow, decide fast" by Daniel Kahneman]
+> - [“To work with your head.” Cal Newport](https://konicaru.github.io/#to-work-with-head-cal-newport)
+> - [“Learning Python.” Mark Lutz](https://konicaru.github.io/#book-learning-python-mark-lutz-1)
+> - ["Code is the secret language of computer science". Charles Petzold](https://konicaru.github.io/#book-code-secret-language-informatics-charles-petzold)
+> - [“Blue Ocean Strategies” by Kim Chan and Rene Mauborgne]
+> - [“Grokaem Algorithms” by Bhargava A.](https://konicaru.github.io/#book-grokaem-algorithms-by-bhargava-a)
+> - [“Meditation and mindfulness. 10 minutes a day that will put your thoughts in order. by Andy Puddicombe](https://konicaru.github.io/#book--meditation-and-mindfulness-10-minutes-a-day-that-will-put-your-thoughts-in-order---author-andy -paddicomb)
+> - [“Einstein walks on the moon.” JOSHUA FOER](https://konicaru.github.io/#book-einstein-walks-on-the-moon--joshua--foer)
 
-#### Соцсети:
+#### Social network:
 
-|[Мой блог](https://konicaru.github.io/)|[Мой GitHub](https://github.com/konicaRu)|[Мой Linkedin](https://www.linkedin.com/in/dimkochetov/)|[Мой Facebook](https://www.facebook.com/konica1970)|[Телеграмм](https://t.me/konica1970)|
+|[My Blog](https://konicaru.github.io/)|[My GitHub](https://github.com/konicaRu)|[My Linkedin](https://www.linkedin.com/in /dimkochetov/)|[My Facebook](https://www.facebook.com/konica1970)|[Telegram](https://t.me/konica1970)|
 
 [dimkochetow@gmail.com](dimkochetow@gmail.com)
 

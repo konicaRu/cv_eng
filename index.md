@@ -31,8 +31,8 @@ My English is at B2 level [тесту Cambridge Assessment](https://www.cambridg
 
 |   July 2020   | [Yandex Praktikum Data Analyst](https://praktikum.yandex.ru/profile/data-scientist/order/) |
 | :-----------: | :----------------------------------------------------------: |
-|   June 2020   | [Hekslet - practical programming courses.](https://ru.hexlet.io/) Python-программист |
-|   May 2020    | [Hexlet - practical programming courses.](https://ru.hexlet.io/) Протокол HTTP |
+|   June 2020   | [Hekslet - practical programming courses.](https://ru.hexlet.io/) Python-programmer |
+|   May 2020    | [Hexlet - practical programming courses.](https://ru.hexlet.io/) Protocol HTTP |
 |  April 2020   | Algorithms and tkinter: lessons with a tutor: [link to my exercises](https://github.com/konicaRu/data_structures_and_algorithms), [exercise with tkinter](https://github.com/konicaRu/studying_tkinter) |
 |   March 2020  | Algorithms: lessons with a tutor: [link to my exercises](https://github.com/konicaRu/data_structures_and_algorithms) |
 | February 2020 | [Course on the Stepik educational platform](https://stepik.org/) **SQL basics.** Simple SQL queries, adding, modifying, deleting, creating tables, indexes, modifying tables, text search, auxiliary functions, data grouping , multi-table queries, nested queries, compound conditions, selection limit, principle of operation without data. |
